@@ -22,6 +22,8 @@ controller wrapper
 
 database connection (PSQL connection pooling)
 
+cors
+
 ## Installation
 
 ```bash
